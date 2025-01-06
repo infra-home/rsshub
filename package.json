@@ -143,7 +143,7 @@
     "rfc4648": "1.5.3",
     "rss-parser": "3.13.0",
     "sanitize-html": "2.12.1",
-    "simplecc-wasm": "0.1.5",
+    "simplecc-wasm": "1.1.0",
     "socks-proxy-agent": "8.0.2",
     "source-map": "0.7.4",
     "telegram": "2.18.26",
