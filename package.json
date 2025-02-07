@@ -154,7 +154,7 @@
     "twitter-api-v2": "1.16.0",
     "uuid": "9.0.1",
     "winston": "3.11.0",
-    "xxhash-wasm": "1.0.2"
+    "xxhash-wasm": "1.1.0"
   },
   "devDependencies": {
     "@microsoft/eslint-formatter-sarif": "3.0.0",
