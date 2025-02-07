@@ -140,7 +140,7 @@
     "query-string": "7.1.3",
     "re2js": "0.4.1",
     "require-all": "3.0.0",
-    "rfc4648": "1.5.3",
+    "rfc4648": "1.5.4",
     "rss-parser": "3.13.0",
     "sanitize-html": "2.12.1",
     "simplecc-wasm": "0.1.5",
